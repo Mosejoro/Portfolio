@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fab0761d.css",
+    "main.js": "/static/js/main.5918c45d.js",
+    "static/js/453.ac24019b.chunk.js": "/static/js/453.ac24019b.chunk.js",
+    "static/media/Hub Site.png": "/static/media/Hub Site.f1d3422c217b8754e3ae.png",
+    "static/media/Pdf Site.png": "/static/media/Pdf Site.72042f3320ca940fc688.png",
+    "static/media/Scm Site.png": "/static/media/Scm Site.929919b9e711365a9b43.png",
+    "static/media/Digital Web.png": "/static/media/Digital Web.2e0e7898047fe95b91e1.png",
+    "static/media/Reverend Site.png": "/static/media/Reverend Site.86e79375711eb7ac8fb6.png",
+    "static/media/css3.png": "/static/media/css3.4c132d518acbd3ad94c6.png",
+    "static/media/Resume.pdf": "/static/media/Resume.b741de7428e131922a67.pdf",
+    "static/media/tailwind.png": "/static/media/tailwind.5bad92959f0cc2f3a595.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.c8bbbf2588aa9ec66b8d.png",
+    "static/media/logo-grayscale-inverted.png": "/static/media/logo-grayscale-inverted.0246c253d37850a18745.png",
+    "static/media/React.webp": "/static/media/React.2a0cac33f155e4a27216.webp",
+    "static/media/logo-grayscale.png": "/static/media/logo-grayscale.990f5d8f68a6c879734f.png",
+    "static/media/logo-color.png": "/static/media/logo-color.0d57c4f4caf33aebba67.png",
+    "static/media/javascript.png": "/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "index.html": "/index.html",
+    "main.fab0761d.css.map": "/static/css/main.fab0761d.css.map",
+    "main.5918c45d.js.map": "/static/js/main.5918c45d.js.map",
+    "453.ac24019b.chunk.js.map": "/static/js/453.ac24019b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab0761d.css",
+    "static/js/main.5918c45d.js"
+  ]
+}
