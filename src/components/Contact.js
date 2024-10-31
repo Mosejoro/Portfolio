@@ -117,7 +117,7 @@ function Contact() {
           </li>
           <li class="icon-content">
             <a
-              href="https://www.linkedin.com/company/hub-for-digital-excellence/"
+              href="https://www.linkedin.com/in/mosejoro/"
               aria-label="Whatsapp"
               data-social="Whatsapp"
             >
