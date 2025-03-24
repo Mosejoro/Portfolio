@@ -9,6 +9,7 @@ import WorksB from "./components/WorksB";
 import WorksC from "./components/WorksC";
 import Landing from "./components/Landing";
 import About from "./components/About";
+import Info from "./components/info";
 import Contact from "./components/Contact";
 import Thanks from "./components/thanks";
 
@@ -22,6 +23,7 @@ function App() {
         <Works2></Works2>
         <WorksC></WorksC>
         <WorksB></WorksB>
+        <Info></Info>
       </div>
       <div>
         <About></About>
